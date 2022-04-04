@@ -1,9 +1,9 @@
 const contractAddress = "0x648DD543f3A03dcC12d3c4D6b92e14798E7E0BB7"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome and Bienvenue to Le Baron NFT Project!!";
+const welcome_h1 = "Welcome to Le Baron NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Le Baron NFT Project is a decentralized, Non-Fungible Token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Baron Samedi, also written Baron Samdi, Bawon Samedi or Bawon Sanmdi, is one of the loa of Haitian Vodou. He is a loa of the dead, along with Barons numerous other incarnations Baron Cimetiere, Baron La Croix and Baron Criminel. He is syncretized with Saint Martin de Porres. Do not miss the announcement of the start of distribution of gifts by subscribing to the pages of the Le Baron project on Discord, Twitter and Instagram. We have many more surprises prepared - it will be amazing and very rewarding! Le Baron.';
+const welcome_p = 'Le Baron NFT Art Project - Baron Samedi, also written Baron Samdi, Bawon Samedi or Bawon Sanmdi, is one of the loa of Haitian Vodou. He is a loa of the dead, along with Barons numerous other incarnations Baron Cimetiere, Baron La Croix and Baron Criminel. He is syncretized with Saint Martin de Porres.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";

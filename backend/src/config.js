@@ -35,7 +35,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "http://www.baron.play.tg", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://lebaron.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -92,7 +92,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "http://www.baron.play.tg",
+  external_url: "https://lebaron.netlify.app",
   creators: [
     {
       address: "0x075C393934Ca81Dab106A02c6429d1DdE49d2A68",
