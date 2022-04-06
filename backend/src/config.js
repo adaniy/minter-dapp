@@ -95,7 +95,7 @@ const solanaMetadata = {
   external_url: "https://lebaron.netlify.app",
   creators: [
     {
-      address: "0x075C393934Ca81Dab106A02c6429d1DdE49d2A68",
+      address: "0xf43701a88E3FA55b7e5BF4D92DfaD91693982D6f",
       share: 100,
     },
   ],

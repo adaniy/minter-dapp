@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Le Baron NFT Art Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Baron Samedi, is one of the loa of Haitian Vodou. He is a loa of the dead, He is syncretized with Saint Martin de Porres.';
+const welcome_p = 'Baron Samedi, is one of the loa of Haitian Vodou. He is a loa of the dead, He is syncretized with Saint Martin de Porres. <> Do not miss the announcement of the start of distribution of gifts by subscribing to the pages of the Le Baron project on Discord, Twitter and Instagram.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
